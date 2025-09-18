@@ -1,0 +1,26 @@
+Index,Query,LLM Output,call_order,raw_args
+0ARLFI,유기화합물은 어떤 거야,<function_HW>(type=3)<end>,0,type=3
+0RGFQL,미세먼지는 왜 건강에 나쁜가요?,<function_HW>(type=1)<end>,0,type=1
+1SLJIK,초미세먼지는 무슨 뜻인가요?,<function_HW>(type=2)<end>,0,type=2
+2FOVEL,유기화합물이 뭐예요,<function_HW>(type=3)<end>,0,type=3
+2KZPEE,유기화합물이란 무엇을 의미합니까,<function_HW>(type=3)<end>,0,type=3
+3RTCNM,초미세먼지란 무엇을 의미합니까,<function_HW>(type=2)<end>,0,type=2
+4APQMJ,질소산화물이란 무엇입니까,<function_HW>(type=4)<end>,0,type=4
+4BORCR,미세먼지가 무슨 의미야,<function_HW>(type=1)<end>,0,type=1
+4EPPYY,대기 중의 질소산화물은 어떤 역할을 하나요?,<function_HW>(type=4)<end>,0,type=4
+4PGHJK,초미세먼지는 어떤 물질입니까,<function_HW>(type=2)<end>,0,type=2
+4UIJFH,유기화합물이 무슨 의미일까,<function_HW>(type=3)<end>,0,type=3
+4WMGAE,이산화탄소가 뭔지 말해줘,<function_HW>(type=6)<end>,0,type=6
+5EAIMQ,질소산화물이 뭔데,<function_HW>(type=4)<end>,0,type=4
+5XBQFM,포름알데히드가 무엇인지 말해줘,<function_HW>(type=5)<end>,0,type=5
+6DCBDO,미세먼지가 무엇입니까,<function_HW>(type=1)<end>,0,type=1
+6JLTIE,유기화합물을 알려줘,<function_HW>(type=3)<end>,0,type=3
+6UQUTB,이산화탄소는 어떤 물질이야,<function_HW>(type=6)<end>,0,type=6
+6WBXWD,포름알데히드는 어디서 나와,<function_HW>(type=5)<end>,0,type=5
+6ZFSLW,초미세먼지가 폐에 어떤 영향을 줍니까?,<function_HW>(type=2)<end>,0,type=2
+7CMEYZ,포름알데히드를 알려줘,<function_HW>(type=5)<end>,0,type=5
+7JMLIX,미세먼지 알려줘,<function_HW>(type=1)<end>,0,type=1
+8EOYJV,포름알데히드는 건강에 어떤 영향을 줘,<function_HW>(type=5)<end>,0,type=5
+8QVGCZ,이산화탄소를 설명해줘,<function_HW>(type=6)<end>,0,type=6
+8UKPKL,질소산화물이 도대체 뭐야,<function_HW>(type=4)<end>,0,type=4
+9SXNQQ,미세먼지는 어떤 유해한 물질이 있어?,<function_HW>(type=1)<end>,0,type=1

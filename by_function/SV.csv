@@ -1,0 +1,22 @@
+Index,Query,LLM Output,call_order,raw_args
+0ZJUFU,나이트 모드 작동 중이니?,<function_SV>(type=3)<end>,0,type=3
+1CPEIB,오늘 날짜 알려줘.,<function_SV>(type=5)<end>,0,type=5
+1DNDVT,나이트 모드 켜져있니?,<function_SV>(type=3)<end>,0,type=3
+1MEUOZ,오늘 며칠이야?,<function_SV>(type=5)<end>,0,type=5
+1NLRDQ,와이파이 켜 있는지 알고 싶어.,<function_SV>(type=4)<end>,0,type=4
+1OFDBM,매너모드 켜진 상태인가?,<function_SV>(type=2)<end>,0,type=2
+1OMLTA,매너모드 지금 켜져있어?,<function_SV>(type=2)<end>,0,type=2
+1QWUXS,매너모드 켜진 상태야?,<function_SV>(type=2)<end>,0,type=2
+2NVEXM,몇 월 며칠인지 알려줘.,<function_SV>(type=5)<end>,0,type=5
+2ZVWZV,와이파이 연결했는지 확인해줘.,<function_SV>(type=4)<end>,0,type=4
+3BLQWI,인터넷 연결 여부를 알려주세요.,<function_SV>(type=4)<end>,0,type=4
+3BULZE,나이트 모드 활성화되어있니?,<function_SV>(type=3)<end>,0,type=3
+3DLLIB,나이트 모드 켜져있는지 확인해줘.,<function_SV>(type=3)<end>,0,type=3
+4EGHBA,시계가 몇 시야?,<function_SV>(type=1)<end>,0,type=1
+4NFWBR,현재 매너모드가 활성화 되어 있나요?,<function_SV>(type=2)<end>,0,type=2
+4UVUHA,날짜 좀 봐줄래?,<function_SV>(type=5)<end>,0,type=5
+6MVAJU,나이트 모드 지금 작동 중이야?,<function_SV>(type=3)<end>,0,type=3
+7HTJSD,시간 좀 보여줘.,<function_SV>(type=1)<end>,0,type=1
+7QDVBA,매너모드 지금 켜졌나?,<function_SV>(type=2)<end>,0,type=2
+7TULXO,인터넷 연결되어 있나요?,<function_SV>(type=4)<end>,0,type=4
+9VQBEG,매너모드 켜져있나?,<function_SV>(type=2)<end>,0,type=2
